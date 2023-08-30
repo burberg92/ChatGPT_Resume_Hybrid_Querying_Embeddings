@@ -1,6 +1,6 @@
 # Resume_LLM
 
-This Jupyter notebook accompanies the paper "Resume Parsing Model" and provides a comprehensive walkthrough of the methodology used in the study. The paper focuses on leveraging utilizing embeddings, hybrid querying, and prompt engineering to enhance the capabilities of Large Language Models (LLMs).  
+This Jupyter notebook accompanies the paper "Resume Parsing Model", which draws inspiration from the research principle "Textbooks are all You Need.". The paper focuses on leveraging utilizing embeddings, hybrid querying, and prompt engineering to enhance the capabilities of Large Language Models (LLMs).  
 
 # Contents
 
