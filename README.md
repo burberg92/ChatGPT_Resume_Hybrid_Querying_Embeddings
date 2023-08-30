@@ -2,7 +2,7 @@
 
 This Jupyter notebook accompanies the paper "Resume Parsing Model" and provides a comprehensive walkthrough of the methodology used in the study. The paper focuses on leveraging semantic vectorization techniques and text chunking to enhance the understanding capabilities of Large Language Models (LLMs).  
 
-Contents
+# Contents
 
 ## Document Chunking:
 - Explanation of the need for text chunking in LLMs.
